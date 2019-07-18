@@ -1,0 +1,72 @@
+[
+	{
+		"id" : 2293561,
+		"given_names" : "Tin Ling",
+		"surname" : "Chan",
+		"grades" :
+		{
+			"a1" : 82,
+			"a2" : 80,
+			"a3" : 94,
+			"a4" : 88,
+			"midterm" : 77,
+			"final" : 85
+		}
+	},
+	{
+		"id" : 2235183,
+		"given_names" : "Sharon Elizabeth",
+		"surname" : "Bonhoeffer",
+		"grades" :
+		{
+			"a1" : 81,
+			"a2" : 90,
+			"a3" : 76,
+			"a4" : 98,
+			"midterm" : 81,
+			"final": 82
+		}
+	},
+	{
+		"id" : 2274763,
+		"given_names" : "Kabeera",
+		"surname" : "al-Selim",
+		"grades" :
+		{
+			"a1" : 88,
+			"a2" : 91,
+			"a3" : 95,
+			"a4" : 89,
+			"midterm" : 86,
+			"final" : 92
+		}
+	},
+	{
+		"id" : 2293490,
+		"given_names" : "Andrew",
+		"surname" : "McDonald",
+		"grades" :
+		{
+			"a1" : 80,
+			"a2" : 88,
+			"a3" : 90,
+			"a4" : 89,
+			"midterm" : 78,
+			"final" : 89
+		}
+	},
+	{
+		"id" : 2262851,
+		"given_names" : "Sumit",
+		"surname" : "Dalavi",
+		"grades" :
+		{
+			"a1" : 91,
+			"a2" : 87,
+			"a3" : 86,
+			"a4" : 92,
+			"midterm" : 90,
+			"final" : 90
+		}
+	}
+]
